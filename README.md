@@ -22,7 +22,6 @@ A Next.js application for managing Secret Santa assignments in a company setting
 - Tailwind CSS
 - shadcn/ui components
 - Papa Parse for CSV handling
-- Vitest for testing
 
 ## Getting Started
 
@@ -68,7 +67,6 @@ npm run test
 - `/components` - React components including shadcn/ui components
 - `/lib` - Core business logic and utilities
 - `/types` - TypeScript type definitions
-- `/__tests__` - Test files
 
 ## Error Handling
 
